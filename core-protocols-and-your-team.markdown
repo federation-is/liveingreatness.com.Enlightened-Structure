@@ -26,7 +26,7 @@ Next: [Boot Camp](http://liveingreatness.com/boot-camp-immersive-training/)
 
 <ul id="menu-the-core-protocols" class="menu">
 <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://liveingreatness.com/core-protocols/">About the Core Protocols</a></li>
-<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="-core-protocols-the-core-commitments-">The Core Commitments</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://liveingreatness.com/core-protocols/the-core-commitments/">The Core Commitments</a></li>
 <li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://liveingreatness.com/core-protocols/pass-unpass/">Pass (Unpass)</a></li>
 <li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://liveingreatness.com/core-protocols/check-in/">Check In</a></li>
 <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://liveingreatness.com/core-protocols/check-out/">Check Out</a></li>
